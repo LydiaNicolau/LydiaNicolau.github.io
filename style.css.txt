@@ -1,0 +1,24 @@
+body {
+  background-color: #FEBEFF;
+}
+
+#nav-table { width: 1024px;}
+
+     <div class="w3-container w3-pink">
+  <h1>Welcome to my Page!</h1>
+  <p>Hello there and welcome to my page! My name is Lydia Nicolau I am eighteen years old, and I am a computer science major at the University of Rhode Island. This website is a collection of the different work I have completed in my CSC106 class. Please feel free to explore!</p>
+</div>
+
+<div class="w3-container w3-pink">
+  <h1>Some Information About my Javascripts!</h1>
+  <p>Below you will find a collection of all the different ways I have used Javascripts in my csc106 class. Many hours of dedication and focus went into producing this work, but it was overall a fun learning experience!</p>
+</div>
+
+<div class="w3-container w3-pink">
+<body> Welcome to Lydia's Bio! </body>
+<img src= "aboutmewater.jpg">
+<img src="aboutmeprom.jpg">
+<img src="aboutmesoccer.jpg">
+  <h1>Some facts about me!</h1>
+  <p>Hey my name is Lydia Nicolau I am eighteen years old and I am a computer science major at the University of Rhode Island! I grew up in West Warwick Rhode Island and found my love for computer science in a highschool coding class. I enjoyed getting over roadblocks and the feeling of finishing a long tedious project.</p>
+</div>
