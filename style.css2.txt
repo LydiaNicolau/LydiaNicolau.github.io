@@ -1,0 +1,21 @@
+body {
+background-image: url("myBackground.png"); }
+
+#aboutmewater {
+float: left; 
+margin-right: 2%;
+margin: 0 0
+}
+
+#aboutmeprom {
+float: none;
+margin-left: 2%;
+margin-right: 2%;
+}
+
+#aboutmesoccer {
+float: right;
+margin-left: 2%;
+margin-right: 8%;
+margin: 0 0
+}
