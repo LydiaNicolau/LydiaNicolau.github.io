@@ -7,13 +7,12 @@ margin-right: 2%;
 }
 
 #aboutmeprom {
-float: none;
+float: left;
 margin-left: 2%;
 margin-right: 2%;
 }
 
 #aboutmesoccer {
-float: right;
+float: left;
 margin-left: 2%;
-  margin-right: 5px;
 }
